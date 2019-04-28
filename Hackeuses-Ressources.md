@@ -1,6 +1,6 @@
 # Ressources - Hackeuses BDX Vol.1
 
-## Charte Graphique coucou
+## Charte Graphique encore coucou
 
 - ### Logo
 
@@ -82,6 +82,6 @@
 - **Savoir ce qu'il se passe sur Bordeaux**
    - [La French Tech Bordeaux](https://www.frenchtechbordeaux.com/https://www.frenchtechbordeaux.com/https://www.frenchtechbordeaux.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTA1NDE3ODcsLTcyNDAxNTk2OSwtMT
-E4NjcxMzgyOSwtMTE4NjcxMzgyOV19
+eyJoaXN0b3J5IjpbLTU4MDE4MDg3MywtMTE1MDU0MTc4NywtNz
+I0MDE1OTY5LC0xMTg2NzEzODI5LC0xMTg2NzEzODI5XX0=
 -->
