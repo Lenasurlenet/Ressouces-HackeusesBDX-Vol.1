@@ -21,7 +21,7 @@
 
 
 - ### Couleurs
-   - **Outils pour selectionner ses couleurs**
+   - **Outils pour sélectionner ses couleurs**
       - [Color Tool](https://www.google.com/search?q=color+tool&oq=color+tool&aqs=chrome..69i57j0l5.2345j0j7&sourceid=chrome&ie=UTF-8)
       
 
@@ -82,6 +82,6 @@
 - **Savoir ce qu'il se passe sur Bordeaux**
    - [La French Tech Bordeaux](https://www.frenchtechbordeaux.com/https://www.frenchtechbordeaux.com/https://www.frenchtechbordeaux.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODY3MTM4MjksLTExODY3MTM4MjldfQ
-==
+eyJoaXN0b3J5IjpbLTcyNDAxNTk2OSwtMTE4NjcxMzgyOSwtMT
+E4NjcxMzgyOV19
 -->
