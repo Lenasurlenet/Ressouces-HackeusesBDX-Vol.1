@@ -1,8 +1,8 @@
 # Ressources - Hackeuses BDX Vol.1
 
-## Charte Graphique encore coucou
+## Charte Graphique
 
-- ### Logo
+- ### Logo / Mockup / Design
 
   - [Figma.com](https://www.figma.com/)
   - [Canva](https://www.canva.com/)
@@ -47,11 +47,13 @@
 - **Sites**
   - [Opquast](http://checklists.opquast.com/fr/)
   - [The W3C Markup Validator](https://validator.w3.org/#validate_by_upload)
+  - [Service de validation CSS](https://jigsaw.w3.org/css-validator/#validate_by_input)
  
 - **Articles**
 
 
 ## Apprendre en ligne
+
 - **Open Classrooms**
   - [Apprenez à créer votre site web avec HTML5 et CSS3](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3)
 
@@ -59,14 +61,21 @@
   - [Apprendre l'html et le CSS](https://www.grafikart.fr/tutoriels/css)
 
 - **[Freecodecamp](https://learn.freecodecamp.org/)**
+- ** [Code Academy](https://www.codecademy.com/)**
+- ** [France IOI](http://www.france-ioi.org/algo/index.php)Algorithmique
 
 
 - **Youtube**
   - **Anglais**
-    - [Learn CSS in 12 minutes](https://youtu.be/0afZj1G0BIE) date un peu mais pose bien  la base
+  
+    - [Web Development in 2019- A practical guide](https://youtu.be/UnTQVlqmDQ0)
+    - [Learn CSS in 12 minutes](https://youtu.be/0afZj1G0BIE) date un peu mais pose bien la base
+    - [Build your UI library with CSS](https://youtu.be/GNtohfhj_A4)
+    - [Building layouts with flexbox and CSS grids](https://youtu.be/2GxAElWKaAo)
 
   - **Français**
     - [Html - Css | FlexBox - Maitriser le positionnement (partie 1)](https://youtu.be/bDW9EWbHvHk)
+    - [Débuter avec Git et GitHub en 30mn](https://youtu.be/hPfgekYUKgk)
 
 
 ## Documentation
@@ -76,6 +85,10 @@
 ## C'est chouette
   - [Flexbox Froggy](https://flexboxfroggy.com)
   - [CSS Diner](https://flukeout.github.io/)
+  
+## Veille
+ - [Hakernoon](https://hackernoon.com/tagged/coding)
+ - [Dev.To](https://dev.to/)
 
 
 ## Construire un réseau
