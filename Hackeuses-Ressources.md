@@ -62,7 +62,7 @@
 
 - **[Freecodecamp](https://learn.freecodecamp.org/)**
 - **[Code Academy](https://www.codecademy.com/)**
-- **[France IOI](http://www.france-ioi.org/algo/index.php)Algorithmique
+- **[France IOI](http://www.france-ioi.org/algo/index.php)** Algorithmique
 
 
 - **Youtube**
