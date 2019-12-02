@@ -61,8 +61,8 @@
   - [Apprendre l'html et le CSS](https://www.grafikart.fr/tutoriels/css)
 
 - **[Freecodecamp](https://learn.freecodecamp.org/)**
-- ** [Code Academy](https://www.codecademy.com/)**
-- ** [France IOI](http://www.france-ioi.org/algo/index.php)Algorithmique
+- **[Code Academy](https://www.codecademy.com/)**
+- **[France IOI](http://www.france-ioi.org/algo/index.php)Algorithmique
 
 
 - **Youtube**
